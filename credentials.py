@@ -1,4 +1,4 @@
-consumer_key = 'sk5h3aKTyje7Ffk8CwZa6vMtT'
-consumer_secret = '5tHSJqEKxYc08bbWYfalFcBgoJ1E7y4lL3aLlH698Nx3wce5e6'
-access_token = '287175928-IL2DnvCppJBM68iJHUgMl5svVzBj5RKM0qZrZUcv'
-access_token_secret = 'TADqHOjlxhrQupHxaCxiyfxO6nAk29hXz03Xa00Jr8SXj'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
